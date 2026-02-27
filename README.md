@@ -9,8 +9,7 @@
 Ein leichtgewichtiges, aber mächtiges Kommandozeilen-Tool (CLI), das dein lokales Netzwerk dynamisch analysiert und eine visuelle, farbcodierte ASCII-Baumstruktur aller verbundenen Geräte direkt im Terminal generiert.
 
 ## 📸 Preview
-
-*(Ziehe hier deinen Screenshot aus CachyOS oder Debian einfach per Drag & Drop rein!)*
+<img width="709" height="623" alt="image" src="https://github.com/user-attachments/assets/74d910f9-3840-4a1c-a4e4-0b8299762677" />
 
 ## ✨ Features
 
