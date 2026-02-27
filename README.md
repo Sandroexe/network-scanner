@@ -79,3 +79,8 @@ Das Skript ermittelt selbstständig dein aktuelles Subnetz, scannt die Umgebung 
 * Erstellt mit [Scapy](https://scapy.net/) für Paket-Manipulation.
 * Visualisiert mit [Rich](https://rich.readthedocs.io/en/stable/) für die Cyber-Terminal-Ästhetik.
 * Gekapselt in einer isolierten virtuellen Umgebung, um Paket-Konflikte im Host-System zu verhindern.
+
+## Meine Hardware Konfiguration
+
+* [CachyOS mit AMD Ryzen 7 9800x3d + RTX 5070 Asus TUF OC](https://github.com/Sandroexe/dotfiles)
+* SSH über MacBook Terminal
