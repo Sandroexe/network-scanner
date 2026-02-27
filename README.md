@@ -10,7 +10,6 @@ Ein leichtgewichtiges, aber mächtiges Kommandozeilen-Tool (CLI), das dein lokal
 
 ## 📸 Preview
 
-*(Ziehe hier später einfach den Screenshot deines Terminals per Drag & Drop rein!)*
 <img width="706" height="421" alt="image" src="https://github.com/user-attachments/assets/0b3a6770-6129-4f7a-bf7a-fb7626832804" />
 
 
