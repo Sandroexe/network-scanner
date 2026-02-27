@@ -92,3 +92,13 @@ Dieses Projekt nutzt [GitHub Releases](https://github.com/Sandroexe/network-scan
 * Erstellt mit [Scapy](https://scapy.net/) für Paket-Manipulation.
 * Visualisiert mit [Rich](https://rich.readthedocs.io/en/stable/) für die Cyber-Terminal-Ästhetik.
 * Gekapselt in einer isolierten virtuellen Umgebung, um Paket-Konflikte im Host-System zu verhindern.
+
+  ---
+
+## 🖥️ Mein Setup & Dotfiles
+
+Dieses Tool wurde auf meinem täglichen Driver unter **CachyOS** (Arch Linux) mit einem AMD Ryzen 7 9800X3D und einer RTX 5070 geschrieben und getestet. 
+
+Wenn dir die Cyber-Terminal-Ästhetik, meine Fish-Shell-Konfiguration oder das generelle Linux-Setup gefallen, schau dir gerne an, wie mein System unter der Haube konfiguriert ist:
+
+👉 **[Schau dir mein Dotfiles-Repository an!](https://github.com/Sandroexe/dotfiles)** *(Hinweis: Falls dein Dotfiles-Repo anders heißt, passe den Link `Sandroexe/dotfiles` einfach kurz an!)*
