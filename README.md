@@ -49,17 +49,15 @@ sudo dnf install git python3
 
 Egal welches Linux du nutzt, dieser Schritt ist überall gleich. Das Skript installiert das Tool sauber nach `/opt/networkscanner` und erstellt einen globalen Befehl.
 
+> **💡 Wichtiger Tipp fürs Terminal:** Füge die Befehle am besten mit **`Strg + Shift + V`** (oder Rechtsklick -> "Als reinen Text einfügen") in dein Terminal ein. Manchmal kopieren Browser sonst unsichtbare Link-Klammern mit, die den Befehl stören!
+
 ```bash
-# 1. Repository herunterladen
 git clone [https://github.com/Sandroexe/network-scanner.git](https://github.com/Sandroexe/network-scanner.git)
 cd network-scanner
-
-# 2. Skript ausführbar machen
 chmod +x install.sh
-
-# 3. Installation starten
 sudo ./install.sh
 ```
+
 
 ---
 
