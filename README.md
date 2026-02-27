@@ -82,5 +82,5 @@ Das Skript ermittelt selbstständig dein aktuelles Subnetz, scannt die Umgebung 
 
 ## Meine Hardware Konfiguration
 
-* [CachyOS mit AMD Ryzen 7 9800x3d + RTX 5070 Asus TUF OC](https://github.com/Sandroexe/dotfiles)
+* CachyOS mit AMD Ryzen 7 9800x3d + RTX 5070 Asus TUF OC - [hier geht es zu meinen dotfiles](https://github.com/Sandroexe/dotfiles)
 * SSH über MacBook Terminal
