@@ -95,7 +95,7 @@ Dieses Projekt nutzt [GitHub Releases](https://github.com/Sandroexe/network-scan
 * Visualisiert mit [Rich](https://rich.readthedocs.io/en/stable/) für die Cyber-Terminal-Ästhetik.
 * Gekapselt in einer isolierten virtuellen Umgebung, um Paket-Konflikte im Host-System zu verhindern.
 
-  ---
+---
 
 ## 🖥️ Mein Setup & Dotfiles
 
