@@ -101,6 +101,14 @@ Dieses Projekt nutzt [GitHub Releases](https://github.com/Sandroexe/network-scan
 
 Dieses Tool wurde auf meinem täglichen Driver unter **CachyOS** (Arch Linux) mit einem AMD Ryzen 7 9800X3D und einer RTX 5070 geschrieben und getestet. 
 
+Zugegriffen habe ich darauf über SSH mit einem Mac.
+
 Wenn dir die Cyber-Terminal-Ästhetik, meine Fish-Shell-Konfiguration oder das generelle Linux-Setup gefallen, schau dir gerne an, wie mein System unter der Haube konfiguriert ist:
 
 👉 **[Schau dir mein Dotfiles-Repository an!](https://github.com/Sandroexe/dotfiles)** 
+
+---
+## Disclaimer
+
+Die Zentralen wichtigen Punkte des Programms wurden von mir gescheieben, optische Verbesserungen habe ich in Zusammenarbeit mit Google Gemini erarbeitet.
+Für die Richtigkeit kann ich nicht 100% garantieren aber bei mir hat es nach mehreren installationsversuchen etc. gut funktioniert.
