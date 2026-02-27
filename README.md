@@ -9,8 +9,8 @@
 Ein leichtgewichtiges, aber mächtiges Kommandozeilen-Tool (CLI), das dein lokales Netzwerk dynamisch analysiert und eine visuelle, farbcodierte ASCII-Baumstruktur aller verbundenen Geräte direkt im Terminal generiert.
 
 ## 📸 Preview
-<img width="706" height="421" alt="image" src="https://github.com/user-attachments/assets/0b3a6770-6129-4f7a-bf7a-fb7626832804" />
 
+*(Ziehe hier deinen Screenshot aus CachyOS oder Debian einfach per Drag & Drop rein!)*
 
 ## ✨ Features
 
@@ -74,13 +74,22 @@ sudo networkscanner
 
 Das Skript ermittelt selbstständig dein aktuelles Subnetz, scannt die Umgebung und baut den Strukturbaum auf.
 
+---
+
+## 📦 Versionen & Updates
+
+Dieses Projekt nutzt [GitHub Releases](https://github.com/Sandroexe/network-scanner/releases) zur Versionierung. 
+
+* Wenn du immer den allerneuesten (aber vielleicht noch in Entwicklung befindlichen) Code möchtest, nutze den `git clone`-Befehl aus der Installationsanleitung oben.
+* Wenn du eine **stabile, ältere Version** installieren möchtest:
+  1. Gehe oben rechts auf **Releases**.
+  2. Lade dir den Source Code (`.zip` oder `.tar.gz`) der gewünschten Version herunter.
+  3. Entpacke den Ordner, öffne darin ein Terminal und führe das `install.sh` Skript aus.
+
+---
+
 ## 🛠️ Unter der Haube
 
 * Erstellt mit [Scapy](https://scapy.net/) für Paket-Manipulation.
 * Visualisiert mit [Rich](https://rich.readthedocs.io/en/stable/) für die Cyber-Terminal-Ästhetik.
 * Gekapselt in einer isolierten virtuellen Umgebung, um Paket-Konflikte im Host-System zu verhindern.
-
-## Meine Hardware Konfiguration
-
-* CachyOS mit AMD Ryzen 7 9800x3d + RTX 5070 Asus TUF OC - [hier geht es zu meinen dotfiles](https://github.com/Sandroexe/dotfiles)
-* SSH über MacBook Terminal
