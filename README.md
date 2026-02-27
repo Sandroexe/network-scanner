@@ -101,4 +101,4 @@ Dieses Tool wurde auf meinem täglichen Driver unter **CachyOS** (Arch Linux) mi
 
 Wenn dir die Cyber-Terminal-Ästhetik, meine Fish-Shell-Konfiguration oder das generelle Linux-Setup gefallen, schau dir gerne an, wie mein System unter der Haube konfiguriert ist:
 
-👉 **[Schau dir mein Dotfiles-Repository an!](https://github.com/Sandroexe/dotfiles)** *(Hinweis: Falls dein Dotfiles-Repo anders heißt, passe den Link `Sandroexe/dotfiles` einfach kurz an!)*
+👉 **[Schau dir mein Dotfiles-Repository an!](https://github.com/Sandroexe/dotfiles)** 
